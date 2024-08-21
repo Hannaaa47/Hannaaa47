@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hannaaa47
 - 👀 I’m interested in developping fun stuff and discover new things
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on creating small games
+- 💞️ I’m like games 
 - 📫 How to reach me ...
 
 <!---
