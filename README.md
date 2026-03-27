@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hannaaa47
 - 👀 I’m interested in developping fun stuff and discover new things
-- 💞️ I’m like games 
-- 📫 How to reach me ...
 
 <!---
 Hannaaa47/Hannaaa47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
