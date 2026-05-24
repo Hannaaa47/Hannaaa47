@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- .NET Framework 4.x para .NET Remoting (funciona en Windows Server 2025) -->
+    <TargetFramework>net48</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
