@@ -31,7 +31,7 @@ using System.Xml;
 class ClienteRpc
 {
     // ── CAMBIA ESTA IP por la de tu Debian ────────────────
-    static readonly string IP_SERVIDOR = "192.168.1.100";
+    static readonly string IP_SERVIDOR = "192.168.100.138";
     static readonly int    PUERTO      = 8080;
     // ─────────────────────────────────────────────────────
 
